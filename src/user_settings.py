@@ -15,7 +15,8 @@ USE_MAXIMUM_POWER = False
 
 # Desired number of configurations to fetch.
 # This is used only if USE_MAXIMUM_POWER is False.
-SPECIFIC_CONFIG_COUNT = 100
+# تغییر به ۳۰۰: چون ۳ لینک منبع دارید و از هر کدام ۱۰۰ کانفیگ می‌خواهید (3*100)
+SPECIFIC_CONFIG_COUNT = 300
 
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
