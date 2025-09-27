@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-27T20:15:40.119246+00:00",
+  "timestamp": "2025-09-27T22:13:20.584576+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36481,
         "valid_configs": 184,
         "unique_configs": 184,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.02,
-        "last_success": "2025-09-27T20:15:40.116895+00:00",
+        "overall_score": 75.0,
+        "last_success": "2025-09-27T22:13:20.582299+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 22,
