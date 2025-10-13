@@ -4,7 +4,6 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
-    "https://pooria.redorg1.ir/api/configs",
     # Add more URLs here if you want to include additional sources.
 ]
 
