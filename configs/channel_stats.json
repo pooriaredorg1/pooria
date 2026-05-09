@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T13:10:02.667418+00:00",
+  "timestamp": "2026-05-09T14:47:38.916624+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.86,
-        "last_success": "2026-05-09T13:10:02.657445+00:00",
+        "last_success": "2026-05-09T14:47:38.905035+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 4,
