@@ -6,6 +6,8 @@
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none#POORIA
 
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?encryption=none&security=tls&sni=hel1.nordlinkcloud.com&alpn=h2&type=xhttp&host=Telegram-Leviko_v2ray&path=%2Fapi%2Fv3%2Fstream%2F&mode=auto#POORIA
+
 vless://0abd5d38-fdf1-11ed-bade-f23c91369f2d@a558fe2a-tl4g00-txkkcl-1fli7.hk3.hyhuawei.com:443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&headerType=none#POORIA
 
 vless://0bc31c7f-1ee2-4dd3-929b-b61ae780eb3c@57.130.20.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#POORIA
@@ -77,6 +79,8 @@ vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@idontknow.whit3.net:443?encryption=
 vless://1e1c72f4-325b-4db0-b2d4-dc9c7cddc46a@mg-42.whit3.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mg-42.whit3.net&fp=chrome&pbk=nNg-TAbG5N2ZU2q2esoguL7gOIgcGu4iJ4BASrP5BFI&sid=08e09895b90eea7a&type=tcp&headerType=none#POORIA
 
 vless://2388e166-3890-33ae-f77e-efac00000002@116.251.217.65:443?encryption=none&security=tls&sni=netlivpn4813.ddhshhshs.workers.dev&fp=chrome&type=ws&host=netlivpn4813.ddhshhshs.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN#POORIA
+
+vless://25f3beef-a4b6-40bc-aa74-17a0f89f683c@169.58.143.21:443?encryption=none&security=tls&sni=finite-node.rtxconfigz.com&type=ws&host=telegram.us&path=%2F#POORIA
 
 vless://26086552-5b79-d167-dd18-1ea000000000@104.21.41.86:443?encryption=none&security=tls&sni=lczoox-b5gygc-24w8tc.rozhaghadri.workers.dev&fp=chrome&type=ws&host=lczoox-b5gygc-24w8tc.rozhaghadri.workers.dev&path=%2Fsync#POORIA
 
@@ -167,8 +171,4 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?encryption=none&security=reality&sni=rs5.univesalsrv.com&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&sid=4872856d5489c37d&type=grpc&authority=&serviceName=gw.v1.ObjectService&mode=gun#POORIA
 
 vless://31216f81-3139-0021-bac4-646680314264@185.218.194.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp&headerType=none#POORIA
-
-vless://330847c8-123e-4f1e-aea4-f22ae1abaec4@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#POORIA
-
-vless://336501b6-51d2-11ee-a993-f23c9164ca5d@e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&type=tcp&headerType=none#POORIA
 
